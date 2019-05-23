@@ -108,12 +108,12 @@ header nav {
 }
 header a {
   border-bottom: 1px solid transparent;
+}
+header .nav-left, header .nav-right {
   min-width: 9ex;
-
 }
 header .nav-left {
   text-align: right;
-  
 }
 header a:hover {
   border-color: #000;
