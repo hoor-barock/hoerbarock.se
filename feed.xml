@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Höörs barock</title>
+    <link href="http://ny.hoerbarock.se/feed.xml" rel="self" />
+    <link href="http://ny.hoerbarock.se" />
+    <updated>2019-05-23T21:46:06+02:00</updated>
+    <author>
+        <name>Anders Fajersson</name>
+    </author>
+    <id>http://ny.hoerbarock.se</id>
+
+    <entry>
+        <title>ytterligare en nyhet</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/ytterligare-en-nyhet/"/>
+        <id>http://ny.hoerbarock.se/ytterligare-en-nyhet/</id>
+
+        <updated>2019-05-05T21:15:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                    hej hej hej hej 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="wrapper">
+<p>hej hej</p>
+<p>hej hej</p>
+<p> </p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ny nyhet</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/ny-nyhet/"/>
+        <id>http://ny.hoerbarock.se/ny-nyhet/</id>
+
+        <updated>2019-05-01T10:28:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><em><strong>lorem</strong> ipsum hej hej</em></p>
+<p> </p>
+<h2 id="mcetoc_1d9p841iu0">kj lkjk jkajsfa</h2>
+<p>sdf asdf as</p>
+<p>sad fsadf sadf</p>
+<p> </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em><strong>lorem</strong> ipsum hej hej</em></p>
+<p> </p>
+<h2 id="mcetoc_1d9p841iu0">kj lkjk jkajsfa</h2>
+<p>sdf asdf as</p>
+<p>sad fsadf sadf</p>
+<p> </p>
+
+<p>sdf kasdfk</p>
+<p> </p>
+<p>sdalf kjsadfj</p>
+<p> </p>
+<p>sakl fjsaldkfj </p>
+<p>asd fklsjadf </p>
+<p>salkdfj asdf</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>7-11 augusti 2019 Glimåkra Blockflöjtsdagar</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/7-11-augusti-2019-glimakra-blockflojtsdagar/"/>
+        <id>http://ny.hoerbarock.se/7-11-augusti-2019-glimakra-blockflojtsdagar/</id>
+
+        <updated>2019-04-27T09:40:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://ny.hoerbarock.se/media/posts/4/sira2019.jpg" alt="" />
+                    7-11 augusti hålls Glimåkra Blockflöjtsdagar än en gång på vackra Glimåkra Folkhögskola! På programmet står&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://ny.hoerbarock.se/media/posts/4/sira2019.jpg" alt="" />
+                <p>7-11 augusti hålls Glimåkra Blockflöjtsdagar än en gång på vackra <a href="http://www.glimnet.se/">Glimåkra Folkhögskola</a>! På programmet står ensemblespel, masterclasses, workshops, teknikpass, konserter, bad och lägeraktiviteter. Man får undervisning och inspiration av erfarna blockflöjtister och pedagoger. Sist men inte minst, får man chans att träffa och spela tillsammans med andra som har blockflöjten som intresse!</p>
+<p>Årets gäster är blockflöjtisten och pedagogen Matilda Bremer. Vi får även besök av musikerkollektivet Bastard Barock. Denna prisbelönta och nyskapande grupp ger konsert och workshop med deltagarna.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://ny.hoerbarock.se/media/posts/4/gallery/sira2019.jpg" ><img src="http://ny.hoerbarock.se/media/posts/4/gallery/sira2019-thumbnail.jpg" alt="" width="768" height="470"></a></figure>
+<figure class="gallery__item"><a href="http://ny.hoerbarock.se/media/posts/4/gallery/gruppbild-2.jpg" ><img src="http://ny.hoerbarock.se/media/posts/4/gallery/gruppbild-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="http://ny.hoerbarock.se/media/posts/4/gallery/glimakra.jpg" ><img src="http://ny.hoerbarock.se/media/posts/4/gallery/glimakra-thumbnail.jpg" alt="" width="768" height="289"></a></figure>
+<figure class="gallery__item"><a href="http://ny.hoerbarock.se/media/posts/4/gallery/bastard2019.jpg" ><img src="http://ny.hoerbarock.se/media/posts/4/gallery/bastard2019-thumbnail.jpg" alt="" width="768" height="551"></a></figure>
+<figure class="gallery__item"><a href="http://ny.hoerbarock.se/media/posts/4/gallery/matilda2019.jpg" ><img src="http://ny.hoerbarock.se/media/posts/4/gallery/matilda2019-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div>
+<p> </p>
+<p><img class="post__image" src="http://ny.hoerbarock.se/media/posts/4/matilda2019.jpg" alt="" width="279" height="279"><img class="post__image" src="http://ny.hoerbarock.se/media/posts/4/bastard2019.jpg" alt="" width="390" height="279"></p>
+<p>Det finns två kurser att välja mellan:</p>
+<ul>
+<li><strong>Ensemblekursen.</strong> Denna kurs är för dig som är 12 år eller äldre. Här spelar vi både i stora och små ensembler. Vi vill att du som går denna kurs ska ha viss notläsningsvana.</li>
+<li><strong>Solokursen.</strong> Denna är i första hand för dig som går, eller är intresserad av att söka en högre musikutbildning i blockflöjt. Här spelar du kammarmusik samt får lektioner i masterclass-form.</li>
+</ul>
+<p><img class="post__image" src="http://ny.hoerbarock.se/media/posts/4/glimakra.jpg" alt="" width="851" height="320"></p>
+<p>Glimåkra Folkhögskola</p>
+<p><img src="http://ny.hoerbarock.se/media/posts/4/gruppbild-2.jpg" alt="" width="312" height="208"></p>
+<p><small>Deltagare 2018</small></p>
+<p>Kostnad 2019 för anmälningsavgift, undervisning, mat och logi i dubbelrum 5 dagar:</p>
+<ul>
+<li>Ensemblekurs - 2690 kr</li>
+<li>Solokurs - 3090 kr</li>
+</ul>
+<p>Medlemmar i Föreningen för Tidig Musik ges 150 kr rabatt.</p>
+<h2 id="mcetoc_1d9eqcb1s0"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJQSWMmI7jMpLqFPtKl0GB-Hr9OjrECWXWpk5hHskC93Wr_Q/viewform?ts=5c682e7f">Anmäl dig här!</a></h2>
+<p>Kontakt: <a href="mailto:glimakrablockflojtsdagar@gmail.com">glimakrablockflojtsdagar@gmail.com</a></p>
+<p>På <a href="https://www.facebook.com/glimakrablockflojtsdagar.se">vår sida på Facebook</a> finns foton och klipp från tidigare kurser.</p>
+<p><img class="align-right" src="http://ny.hoerbarock.se/media/posts/4/sira2019.jpg" alt="" width="1200" height="735"></p>
+<p>Välkomna till Glimåkra hälsar arrangörerna Annie, Pia, Sofia och Emelie.</p>
+<p>Glimåkra Blockflöjtsdagar genomförs med stöd av:</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> sdf adf</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/sdf-adf/"/>
+        <id>http://ny.hoerbarock.se/sdf-adf/</id>
+
+        <updated>2019-04-27T09:02:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                    asdf dsf sdf adsf sd fsdf 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asdf dsf</p>
+<p>sdf adsf</p>
+<p>sd fsdf </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>hej</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/hej/"/>
+        <id>http://ny.hoerbarock.se/hej/</id>
+
+        <updated>2019-04-27T08:57:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    dasf ads dsf asdf asdf sdf ads fs
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dasf ads</p>
+<p><em>dsf asdf </em></p>
+<p> </p>
+<p>asdf sdf</p>
+<p> </p>
+<p>ads fs</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>hej hej</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/hej-hej/"/>
+        <id>http://ny.hoerbarock.se/hej-hej/</id>
+
+        <updated>2019-04-27T07:47:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                    sdf asdf sdf s adf sd f asdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sdf asdf</p>
+<p> </p>
+<p>sdf</p>
+<p> s</p>
+<p>adf</p>
+<p> sd</p>
+<p>f asdf</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
