@@ -52,3 +52,14 @@
 	margin-right: 0.5rem;
 	padding: 0.5rem 0.5rem 0.5rem 0;
 }
+
+
+.grid {
+	border: 2px dashed black;
+	padding: 10px;
+	margin: 10px 0;
+}
+.column {
+	border: 2px dashed red;
+	margin: 5px;
+}

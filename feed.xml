@@ -3,34 +3,10 @@
     <title>Höörs barock</title>
     <link href="http://ny.hoerbarock.se/feed.xml" rel="self" />
     <link href="http://ny.hoerbarock.se" />
-    <updated>2019-05-23T21:50:25+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Anders Fajersson</name>
     </author>
     <id>http://ny.hoerbarock.se</id>
 
-    <entry>
-        <title>ytterligare en nyhet</title>
-        <author>
-            <name>Anders Fajersson</name>
-        </author>
-        <link href="http://ny.hoerbarock.se/ytterligare-en-nyhet/"/>
-        <id>http://ny.hoerbarock.se/ytterligare-en-nyhet/</id>
-
-        <updated>2019-05-05T21:15:07+02:00</updated>
-            <summary>
-                <![CDATA[
-                    hej hej hej hej 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="wrapper">
-<p>hej hej</p>
-<p>hej hej</p>
-<p> </p>
-</div>
-            ]]>
-        </content>
-    </entry>
 </feed>

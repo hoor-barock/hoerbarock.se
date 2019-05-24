@@ -9,19 +9,5 @@
         "name": "Anders Fajersson"
     },
     "items": [
-        {
-            "id": "http://ny.hoerbarock.se/ytterligare-en-nyhet/",
-            "url": "http://ny.hoerbarock.se/ytterligare-en-nyhet/",
-            "title": "ytterligare en nyhet",
-            "summary": "hej hej hej hej ",
-            "content_html": "<div class=\"wrapper\">\n<p>hej hej</p>\n<p>hej hej</p>\n<p> </p>\n</div>",
-            "author": {
-                "name": "Anders Fajersson"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-05-01T10:28:53+02:00",
-            "date_modified": "2019-05-05T21:15:07+02:00"
-        }
     ]
 }
