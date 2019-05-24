@@ -63,3 +63,11 @@
 	border: 2px dashed red;
 	margin: 5px;
 }
+hr {
+  background: url("../images/hr.svg") center no-repeat!important;
+  height: 35px!important;
+  margin: 3em 0!important;
+}
+hr:before {
+	content: none!important;
+}
