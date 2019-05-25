@@ -41,6 +41,7 @@ body {
 img {
   max-width: 100%;
   height: auto;
+  display: block;
 }
 
 a {
@@ -65,6 +66,7 @@ hr {
   height: 35px;
   margin: 3em 0;
 }
+
 
 .small {
   font-size: 0.8rem;
@@ -126,6 +128,9 @@ header .nav-right a {
 header a:hover {
   border-color: #000;
 }
+header a.logo, header a.logo:hover {
+  border: none;
+}
 header img {
   width: 118px;
   height: 63px;
@@ -133,6 +138,10 @@ header img {
 
 main {
   margin-bottom: auto;
+}
+
+.post {
+  max-width: 640px; 
 }
 
 footer {

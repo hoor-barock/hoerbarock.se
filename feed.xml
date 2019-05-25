@@ -3,12 +3,34 @@
     <title>Höörs barock</title>
     <link href="http://ny.hoerbarock.se/feed.xml" rel="self" />
     <link href="http://ny.hoerbarock.se" />
-    <updated>2019-05-25T13:54:00+02:00</updated>
+    <updated>2019-05-25T14:21:01+02:00</updated>
     <author>
         <name>Anders Fajersson</name>
     </author>
     <id>http://ny.hoerbarock.se</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/about/"/>
+        <id>http://ny.hoerbarock.se/about/</id>
+
+        <updated>2019-05-25T14:04:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    AboutHöör Barock (the ensemble’s name is a pun on the name of the village and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dbne0ssb0">About</h2>
+<p>Höör Barock (the ensemble’s name is a pun on the name of the village and the Swedish word for ‘hear’) has its home in the small village of Höör in the southernmost part of Sweden; since 2012 the ensemble has presented a summer festival of baroque music. The number and combination of members vary depending on the projects, but the core consists of a group of professional early-music players from southern Sweden. Höör Barock has collaborated with guest directors such as the Polish violinist Aureliusz Goliński and the conductor Martin Gester.</p>
+<p>The recorder player Dan Laurin and harpsichordist Anna Paradiso began an inspired and inspiring collaboration with the ensemble in 2014, resulting in a BIS recording of works by Telemann, Corelli and Bach (BIS-2235). Characteristic for the ensemble’s interpretations are vitality of rhetoric, a passion for ensemble playing and wide variety in terms of timbre. Individual voices are given ample space and the overall expression rests on the dedication and virtuosity of each player. The ensemble consequently adapts itself with ease and enjoyment to a varied repertoire – from sheer, pine-scented Swedish rococo to virtuosic Italian delicacies and agile German counterpoint.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Om</title>
         <author>
@@ -29,9 +51,20 @@
         <link href="http://ny.hoerbarock.se/kontakt/"/>
         <id>http://ny.hoerbarock.se/kontakt/</id>
 
-        <updated>2019-05-25T13:51:15+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-05-25T14:15:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    KontaktMail: hoerbarock@outlook.com Emelie Roos, telefon: +46 (0) 736-93 86 66 Dohyo Sol, telefon: +46 (0)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dbnek5l53">Kontakt</h2>
+<p id="mcetoc_1dbneiken0">Mail: <a href="mailto:hoerbarock@outlook.com">hoerbarock@outlook.com</a></p>
+<p id="mcetoc_1dbneiken1">Emelie Roos, telefon: +46 (0) 736-93 86 66</p>
+<p id="mcetoc_1dbneiken2">Dohyo Sol, telefon: +46 (0) 707-36 78 27</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Konserter</title>
@@ -53,7 +86,7 @@
         <link href="http://ny.hoerbarock.se/diskografi/"/>
         <id>http://ny.hoerbarock.se/diskografi/</id>
 
-        <updated>2019-05-25T13:50:23+02:00</updated>
+        <updated>2019-05-25T14:02:04+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -65,7 +98,7 @@
         <link href="http://ny.hoerbarock.se/recensioner/"/>
         <id>http://ny.hoerbarock.se/recensioner/</id>
 
-        <updated>2019-05-25T13:50:10+02:00</updated>
+        <updated>2019-05-25T14:02:07+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
