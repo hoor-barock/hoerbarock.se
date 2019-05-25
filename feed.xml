@@ -3,10 +3,70 @@
     <title>Höörs barock</title>
     <link href="http://ny.hoerbarock.se/feed.xml" rel="self" />
     <link href="http://ny.hoerbarock.se" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-05-25T13:54:00+02:00</updated>
     <author>
         <name>Anders Fajersson</name>
     </author>
     <id>http://ny.hoerbarock.se</id>
 
+    <entry>
+        <title>Om</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/om/"/>
+        <id>http://ny.hoerbarock.se/om/</id>
+
+        <updated>2019-05-25T13:50:46+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/kontakt/"/>
+        <id>http://ny.hoerbarock.se/kontakt/</id>
+
+        <updated>2019-05-25T13:51:15+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Konserter</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/konserter/"/>
+        <id>http://ny.hoerbarock.se/konserter/</id>
+
+        <updated>2019-05-25T13:50:31+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Diskografi</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/diskografi/"/>
+        <id>http://ny.hoerbarock.se/diskografi/</id>
+
+        <updated>2019-05-25T13:50:23+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Recensioner</title>
+        <author>
+            <name>Anders Fajersson</name>
+        </author>
+        <link href="http://ny.hoerbarock.se/recensioner/"/>
+        <id>http://ny.hoerbarock.se/recensioner/</id>
+
+        <updated>2019-05-25T13:50:10+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
