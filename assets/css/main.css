@@ -7,18 +7,21 @@
     font-family: 'Cormorant';
     src:  url('../fonts/Cormorant-Regular.woff2') format('woff2'),
           url('../fonts/Cormorant-Regular.woff') format('woff');
+    font-display: swap;
   }
   @font-face {
     font-family: 'Cormorant';
     src:  url('../fonts/Cormorant-Bold.woff2') format('woff2'),
           url('../fonts/Cormorant-Bold.woff') format('woff');
     font-weight: bold;
+    font-display: swap;
   }
   @font-face {
     font-family: 'Cormorant';
     src:  url('../fonts/Cormorant-Italic.woff2') format('woff2'),
           url('../fonts/Cormorant-Italic.woff') format('woff');
     font-style: italic;
+    font-display: swap;
   }
 
 * {
