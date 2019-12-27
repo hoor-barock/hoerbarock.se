@@ -135,16 +135,21 @@ header a {
   border-bottom: 1px solid transparent;
 }
 header .nav-left, header .nav-right {
-  flex: 1
+  flex: 1;
 }
+
+header .nav-left a, header .nav-right a {
+  color: #8c721e;
+}
+
 header .nav-left {
   text-align: right;
 }
 header .nav-left a {
-  margin-right: 1em;
+  margin-right: 1.5em;
 }
 header .nav-right a {
-  margin-left: .7em;
+  margin-left: 1.2em;
 }
 header a:hover {
   border-color: #000;
