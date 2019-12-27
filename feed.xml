@@ -3,7 +3,7 @@
     <title>Höörs barock</title>
     <link href="http://ny.hoerbarock.se/feed.xml" rel="self" />
     <link href="http://ny.hoerbarock.se" />
-    <updated>2019-12-27T10:05:32+01:00</updated>
+    <updated>2019-12-27T10:15:18+01:00</updated>
     <author>
         <name>Anders Fajersson</name>
     </author>
@@ -39,9 +39,21 @@
         <link href="http://ny.hoerbarock.se/om/"/>
         <id>http://ny.hoerbarock.se/om/</id>
 
-        <updated>2019-05-25T13:50:46+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-12-27T10:15:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Höör barock är en ensemble som drivs av blockflöjtisten Emelie Roos och lutenisten Dohyo Sol.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Höör barock är en ensemble som drivs av blockflöjtisten Emelie Roos och lutenisten Dohyo Sol. Till sin by Höör, mitt i Skåne, tar de musiker från när och fjärran för att spela med. I Höör Barocks fasta ensemble spelar barockspecialiserade musiker, framförallt från Skåne. Höör Barock startade upp 2012 med en sommarfestival, i samarbete med Kanerva Juutilainen och organisten Lars Vahlén. Denna festival har sedan dess upprepats varje år i juni, helgen före midsommar. Idén var att samla lokala krafter, bjuda in Sverige och världen till lilla Höör, för att här skapa en ny, spännande plattform för tidig musik. Höör barock vill bjuda sin publik på arrangemang med stor konstnärlig variation, personlig prägel och intim atmosfär! Allt i vacker landsortsmiljö.</p>
+<p>Viktigt för Höör Barock är samarbetet med Höörs församling. Varje år öppnar den upp sina dörrar för ensemblen och sommarfestivalen kan hållas i vackra Höörs kyrka.</p>
+<p>2014 började också ett inspirerande samarbete med blockflöjtisten Dan Laurin och cembalisten Anna Paradiso, med vilka man har spelat in två kritikerrosade skivor på svenska prestigebolaget BIS. “Telemann, Bach, Corelli” (2016) och world premiere-inspelningen “Golovinmusiken” (2019). Skivorna har spelats flitigt i SR P2, BBC mm. Golovinmusiken fick 5 av 5 i betyg av en enhällig jury i Musikrevyn i början av året, och i december 2019 är den nominerad till en Grammis!</p>
+<p>Höör Barock ensemble har spelat på olika håll i Sverige, från Ystad i söder till Östersund i norr, i Danmark, Tyskland och på Island. Senaste turnén gick av stapeln i juni 2019 till anrika Alte Musik Tage i Regensburg, Tyskland.</p>
+<p>Till Höör Barocks tidigare arrangemang hör konsertserien 4 årstider med Höör Barock, Höör Barock Ungdomsakademi samt en rad Familjekonserter.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Kontakt</title>
